@@ -20,7 +20,7 @@ TPICine/
 
 ## 🧩 Backend
 
-![Vista principal](../assets/Portada_backend.png)
+![Vista principal](/assets/Portada_backend.png)
 
 ### 🔧 Instalación y configuración
 
@@ -110,7 +110,7 @@ Formato de la solicitud (JSON):
 
 ## 🎨 Frontend
 
-![Vista principal](../assets/Portada_frontend.png)
+![Vista principal](/assets/Portada_frontend.png)
 
 Este módulo, ubicado en la carpeta `/frontend`, permite al usuario **interactuar con la plataforma de cine** consumiendo los endpoints expuestos por el backend. Brinda una experiencia sencilla para visualizar películas, funciones y comprar tickets.
 
@@ -124,9 +124,11 @@ Este módulo, ubicado en la carpeta `/frontend`, permite al usuario **interactua
    git clone https://github.com/tu-usuario/TPICine.git
    ```
 
-2. (Opcional) Instalá la extensión Live Server en Visual Studio Code para facilitar la vista previa del sitio.
+2. Cambiar a la carpeta "frontend"
 
-3. Levantá el proyecto abriendo index.html con Live Server o directamente en tu navegador.
+3. (Opcional) Instalá la extensión Live Server en Visual Studio Code para facilitar la vista previa del sitio.
+
+4. Levantá el proyecto abriendo index.html con Live Server o directamente en tu navegador.
 
 ---
 
