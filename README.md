@@ -11,10 +11,10 @@ El objetivo es **aplicar conocimientos adquiridos** durante la carrera y sumar e
 ### 📁 Estructura del repositorio
 
 TPICine/
-├── backend/ # Proyecto backend (.NET, C#)
-├── frontend/ # Proyecto frontend (HTML, CSS, JS)
-├── assets/ # Imágenes y recursos utilizados en el README
-└── README.md # Este archivo
+ backend/ # Proyecto backend (.NET, C#)
+ frontend/ # Proyecto frontend (HTML, CSS, JS)
+ assets/ # Imágenes y recursos utilizados en el README
+ README.md # Este archivo
 
 ---
 
@@ -47,8 +47,8 @@ Configurá el archivo appsettings.Development.json con tu ConnectionString.
 5. Generá la base de datos desde el código (Code First) usando la consola del Administrador de Paquetes NuGet:
 
 ```bash
-    Add-Migration Initial
-    Update-Database
+Add-Migration Initial
+Update-Database
 ```
 
 Esto cargará automáticamente películas y salas en la base de datos.
@@ -81,12 +81,14 @@ Para agregar funciones, hacé una solicitud POST al endpoint:
 
 Formato de la solicitud (JSON):
 
+```bash
 {
   "peliculaId": 1,
   "salaId": 2,
   "fecha": "2025/10/13",
   "horario": "16:00"
 }
+```
 
 📌 Formato de fecha: AAAA/MM/DD — Formato de horario: HH:MM
 
