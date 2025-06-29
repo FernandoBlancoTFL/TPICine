@@ -1,6 +1,6 @@
 ## 🎬 TPI Cine - Proyecto Software [Fullstack]
 
-![Vista principal](Assets/Portada_frontend.png)
+![Vista principal](assets/Portada_frontend.png)
 
 Este proyecto es una **aplicación fullstack para una página de cine**, desarrollada con **.NET + Entity Framework Core** en el backend y JavaScript, HTML y CSS en el frontend. Fue creado como trabajo individual para la materia *Proyecto Software* de la carrera de Ingeniería en Informática.
 
@@ -20,7 +20,7 @@ TPICine/
 
 ## 🧩 Backend
 
-![Vista principal](../Assets/Portada_backend.png)
+![Vista principal](../assets/Portada_backend.png)
 
 ### 🔧 Instalación y configuración
 
@@ -52,6 +52,8 @@ Update-Database
 ```
 
 Esto cargará automáticamente películas y salas en la base de datos.
+
+---
 
 🚀 Funcionalidades principales del backend
 Estas funcionalidades se pueden probar utilizando Swagger:
@@ -106,9 +108,9 @@ Formato de la solicitud (JSON):
 
 ---
 
-🎨 Frontend
+## 🎨 Frontend
 
-![Vista principal](../Assets/Portada_frontend.png)
+![Vista principal](../assets/Portada_frontend.png)
 
 Este módulo, ubicado en la carpeta `/frontend`, permite al usuario **interactuar con la plataforma de cine** consumiendo los endpoints expuestos por el backend. Brinda una experiencia sencilla para visualizar películas, funciones y comprar tickets.
 
