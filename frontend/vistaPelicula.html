@@ -1,0 +1,171 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" type="text/css" href="css/estilo.css">
+    <link rel="stylesheet" type="text/css" href="css/vistaPelicula.css">
+    <link rel="shortcut icon" href="/imagenes/cine.png">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta2/css/all.min.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+    <title>TP3</title>
+</head>
+<body>
+    <div class="content">
+      <header id="headerId" class="header">
+        <div class="header__child"><a style="text-decoration:none" href="index.html">Cine</a></div>
+      </header>
+
+        <article class="main">
+          <div id="imagenesVistaPrincipal"><img id="imgLateral" src="/imagenes/cinemaRedChair.jpg" alt=""></div>
+            <div class="content__main_grid2">
+                <div class="content__main_grid-items2">
+                    <div id="item1"></div>
+                    <div id="item2"></div>
+                    <div id="item3"></div>
+                    <div id="item4"></div>
+
+                    <div class="modal fade" id="exampleModal" tabindex="-1" data-bs-backdrop="static" aria-labelledby="exampleModalLabel" aria-hidden="true">
+                        <div class="modal-dialog modal-lg">
+                          <div class="modal-content">
+                            <div class="modal-header">
+                              <h5 class="modal-title" id="exampleModalLabel">Confirmación de compra</h5>
+                              <button id="btnCerrar" type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                            </div>
+                            <form role="form" id="newModalForm" onsubmit="return false">
+                              <div class="modal-body needs-validation" novalidate>
+                                <h5 id="cantidadTicketsAviso">Ingrese la cantidad de tickets a comprar:</h5>
+                                <input id="cantidadTicket" type="number" min="1" max="30" required>
+                                <h1></h1>
+                                <h4>Ingrese su nombre de usuario:</h4>
+                                <input id="nombreUsuario" maxlength="40" type="text" required>
+                              </div>
+                              <div class="modal-footer">
+                                <button id="btnCerrar2" type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cerrar</button>
+                                <button id="crearTicketBtn" class="btn btn-primary" type="submit">Comprar</button>
+                                <!-- <button id="crearTicketBtnValidate" class="btn btn-primary" type="submit">Submit form</button> -->
+                              </div>
+                            </form>
+                            
+                          </div>
+                        </div>
+                    </div>
+
+                    <div class="modal fade" id="ModalCompraRealizada" data-bs-backdrop="static" data-bs-keyboard="false" tabindex="-1" aria-labelledby="staticBackdropLabel" aria-hidden="true">
+                        <div class="modal-dialog modal-dialog-scrollable modal-lg">
+                          <div class="modal-content">
+                            <div class="modal-header">
+                              <h5 class="modal-title" id="modal-titleId">Compra realizada!</h5>
+                              <button id="btnCerrar3" type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+                            </div>
+                            <div class="modal-body" id="modal-bodyId">
+                              <h4 id="titulo">Película: </h4>
+                              <h4 id="fecha">Fecha: </h4>
+                              <h4 id="hora">Hora: </h4>
+                              <h4 id="user">Usuario: </h4>
+                              <h4 id="user">Código QR:</h4>
+                              <div id="QRCode"><img src="imagenes/QRCode.png" alt=""></div>
+                            </div>
+                            <div class="modal-footer">
+                                <button id="btnCerrar4" type="button" class="btn btn-primary" data-bs-dismiss="modal">Cerrar</button>
+                            </div>
+                          </div>
+                        </div>
+                    </div>
+                    
+                </div>
+            </div>
+            <div id="imagenesVistaPrincipal"><img id="imgLateral" src="/imagenes/image.jpg" alt=""></div>
+        </article>
+
+        <footer class="footer">
+          <div class="grupo1">
+            <div class="caja">
+              <a id="footer_item" style="text-decoration:none" href="index.html">Cine</a>
+              <ul>
+                <li>
+                    <a id="footer_child" href="index.html">Protocolo Covid</a>
+                </li>
+                <li>
+                    <a id="footer_child" href="index.html">Preguntas frecuentes</a>
+                </li>
+                <li>
+                  <a id="footer_child" href="index.html">RRHH</a>
+                </li>
+                <li>
+                  <a id="footer_child" href="index.html">Quiénes somos</a>
+                </li>
+              </ul>
+            </div>
+            <div class="caja">
+              <h3 id="info_footer">Información</h3>
+              <ul id="ul_footer">
+                <li>
+                    <a id="footer_child" href="index.html">Contacto</a>
+                </li>
+                <li>
+                    <a id="footer_child" href="index.html">Términos</a>
+                </li>
+                <li>
+                  <a id="footer_child" href="index.html">Promociones</a>
+                </li>
+                <li>
+                  <a id="footer_child" href="index.html">Botón de arrepentimiento</a>
+                </li>
+              </ul>
+            </div>
+            <div class="caja">
+              <h3>Seguinos</h3>
+              <div class="red-social">
+                <a id="redes_sociales" href="#" class="fa fa-facebook"></a>
+                <a id="redes_sociales" href="#" class="fa fa-instagram"></a>
+                <a id="redes_sociales" href="#" class="fa fa-twitter"></a>
+                <a id="redes_sociales" href="#" class="fa fa-youtube"></a>
+              </div>
+              <div class="afip">
+                <img id="qr_footer" src="imagenes/DATAWEB.jpg" alt="">
+                <div class="afip_2">
+                  <a id="footer_child" href="index.html">Libros de quejas online</a>
+                  <a id="footer_child" href="index.html">Dirección General de Defensa y Protección al Consumidor.</a>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div class="grupo2">
+            <small>&copy; 2021 <b>Cine</b> - Todos los Derechos Reservados.</small>
+          </div>
+
+        </footer>
+    </div>
+
+    <script src="js/vistaPelicula.js"></script>
+
+    <script>
+      // Example starter JavaScript for disabling form submissions if there are invalid fields
+      (function () {
+        'use strict'
+
+        // Fetch all the forms we want to apply custom Bootstrap validation styles to
+        var forms = document.querySelectorAll('.needs-validation')
+
+        // Loop over them and prevent submission
+        Array.prototype.slice.call(forms)
+          .forEach(function (form) {
+            form.addEventListener('submit', function (event) {
+              if (!form.checkValidity()) {
+                event.preventDefault()
+                event.stopPropagation()
+              }
+
+              form.classList.add('was-validated')
+            }, false)
+          })
+      })()
+    </script>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
+    <script src="https://kit.fontawesome.com/a501f3f174.js" crossorigin="anonymous"></script>
+
+</body>
+</html>

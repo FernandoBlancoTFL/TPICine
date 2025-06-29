@@ -1,0 +1,222 @@
+C:\Users\Usuario\Documents\Proyectos VS 2019\TPIndividualCine\TPIndividualCine\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Usuario\Documents\Proyectos VS 2019\TPIndividualCine\TPIndividualCine\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Usuario\Documents\Proyectos VS 2019\TPIndividualCine\TPIndividualCine\bin\Debug\netcoreapp3.1\TPIndividualCine.exe
+C:\Users\Usuario\Documents\Proyectos VS 2019\TPIndividualCine\TPIndividualCine\bin\Debug\netcoreapp3.1\TPIndividualCine.deps.json
+C:\Users\Usuario\Documents\Proyectos VS 2019\TPIndividualCine\TPIndividualCine\bin\Debug\netcoreapp3.1\TPIndividualCine.runtimeconfig.json
+C:\Users\Usuario\Documents\Proyectos VS 2019\TPIndividualCine\TPIndividualCine\bin\Debug\netcoreapp3.1\TPIndividualCine.runtimeconfig.dev.json
+C:\Users\Usuario\Documents\Proyectos VS 2019\TPIndividualCine\TPIndividualCine\bin\Debug\netcoreapp3.1\TPIndividualCine.dll
+C:\Users\Usuario\Documents\Proyectos VS 2019\TPIndividualCine\TPIndividualCine\bin\Debug\netcoreapp3.1\TPIndividualCine.pdb
+C:\Users\Usuario\Documents\Proyectos VS 2019\TPIndividualCine\TPIndividualCine\bin\Debug\netcoreapp3.1\TPIndividualCine.Views.dll
+C:\Users\Usuario\Documents\Proyectos VS 2019\TPIndividualCine\TPIndividualCine\bin\Debug\netcoreapp3.1\TPIndividualCine.Views.pdb
+C:\Users\Usuario\Documents\Proyectos VS 2019\TPIndividualCine\TPIndividualCine\obj\Debug\netcoreapp3.1\TPIndividualCine.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\Proyectos VS 2019\TPIndividualCine\TPIndividualCine\obj\Debug\netcoreapp3.1\TPIndividualCine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\Proyectos VS 2019\TPIndividualCine\TPIndividualCine\obj\Debug\netcoreapp3.1\TPIndividualCine.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\Proyectos VS 2019\TPIndividualCine\TPIndividualCine\obj\Debug\netcoreapp3.1\TPIndividualCine.AssemblyInfo.cs
+C:\Users\Usuario\Documents\Proyectos VS 2019\TPIndividualCine\TPIndividualCine\obj\Debug\netcoreapp3.1\TPIndividualCine.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Proyectos VS 2019\TPIndividualCine\TPIndividualCine\obj\Debug\netcoreapp3.1\TPIndividualCine.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Usuario\Documents\Proyectos VS 2019\TPIndividualCine\TPIndividualCine\obj\Debug\netcoreapp3.1\TPIndividualCine.RazorAssemblyInfo.cache
+C:\Users\Usuario\Documents\Proyectos VS 2019\TPIndividualCine\TPIndividualCine\obj\Debug\netcoreapp3.1\TPIndividualCine.RazorAssemblyInfo.cs
+C:\Users\Usuario\Documents\Proyectos VS 2019\TPIndividualCine\TPIndividualCine\obj\Debug\netcoreapp3.1\staticwebassets\TPIndividualCine.StaticWebAssets.Manifest.cache
+C:\Users\Usuario\Documents\Proyectos VS 2019\TPIndividualCine\TPIndividualCine\obj\Debug\netcoreapp3.1\staticwebassets\TPIndividualCine.StaticWebAssets.xml
+C:\Users\Usuario\Documents\Proyectos VS 2019\TPIndividualCine\TPIndividualCine\obj\Debug\netcoreapp3.1\scopedcss\bundle\TPIndividualCine.styles.css
+C:\Users\Usuario\Documents\Proyectos VS 2019\TPIndividualCine\TPIndividualCine\obj\Debug\netcoreapp3.1\TPIndividualCine.TagHelpers.input.cache
+C:\Users\Usuario\Documents\Proyectos VS 2019\TPIndividualCine\TPIndividualCine\obj\Debug\netcoreapp3.1\TPIndividualCine.TagHelpers.output.cache
+C:\Users\Usuario\Documents\Proyectos VS 2019\TPIndividualCine\TPIndividualCine\obj\Debug\netcoreapp3.1\TPIndividualCine.RazorCoreGenerate.cache
+C:\Users\Usuario\Documents\Proyectos VS 2019\TPIndividualCine\TPIndividualCine\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Usuario\Documents\Proyectos VS 2019\TPIndividualCine\TPIndividualCine\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Usuario\Documents\Proyectos VS 2019\TPIndividualCine\TPIndividualCine\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\Usuario\Documents\Proyectos VS 2019\TPIndividualCine\TPIndividualCine\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Usuario\Documents\Proyectos VS 2019\TPIndividualCine\TPIndividualCine\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Usuario\Documents\Proyectos VS 2019\TPIndividualCine\TPIndividualCine\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Usuario\Documents\Proyectos VS 2019\TPIndividualCine\TPIndividualCine\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Usuario\Documents\Proyectos VS 2019\TPIndividualCine\TPIndividualCine\obj\Debug\netcoreapp3.1\TPIndividualCine.RazorTargetAssemblyInfo.cache
+C:\Users\Usuario\Documents\Proyectos VS 2019\TPIndividualCine\TPIndividualCine\obj\Debug\netcoreapp3.1\TPIndividualCine.RazorTargetAssemblyInfo.cs
+C:\Users\Usuario\Documents\Proyectos VS 2019\TPIndividualCine\TPIndividualCine\obj\Debug\netcoreapp3.1\TPIndividualCine.Views.pdb
+C:\Users\Usuario\Documents\Proyectos VS 2019\TPIndividualCine\TPIndividualCine\obj\Debug\netcoreapp3.1\TPIndividualCine.dll
+C:\Users\Usuario\Documents\Proyectos VS 2019\TPIndividualCine\TPIndividualCine\obj\Debug\netcoreapp3.1\TPIndividualCine.pdb
+C:\Users\Usuario\Documents\Proyectos VS 2019\TPIndividualCine\TPIndividualCine\obj\Debug\netcoreapp3.1\TPIndividualCine.genruntimeconfig.cache
+C:\Users\Usuario\Documents\Proyectos VS 2019\TPIndividualCine\TPIndividualCine\obj\Debug\netcoreapp3.1\TPIndividualCine.csproj.CopyComplete
+C:\Users\Usuario\Documents\Proyectos VS 2019\TPIndividualCine\TPIndividualCine\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\Usuario\Documents\Proyectos VS 2019\TPIndividualCine\TPIndividualCine\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\Documents\Proyectos VS 2019\TPIndividualCine\TPIndividualCine\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Usuario\Documents\Proyectos VS 2019\TPIndividualCine\TPIndividualCine\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Usuario\Documents\Proyectos VS 2019\TPIndividualCine\TPIndividualCine\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Usuario\Documents\Proyectos VS 2019\TPIndividualCine\TPIndividualCine\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Usuario\Documents\Proyectos VS 2019\TPIndividualCine\TPIndividualCine\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Usuario\Documents\Proyectos VS 2019\TPIndividualCine\TPIndividualCine\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Usuario\Documents\Proyectos VS 2019\TPIndividualCine\TPIndividualCine\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Usuario\Documents\Proyectos VS 2019\TPIndividualCine\TPIndividualCine\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Usuario\Documents\Proyectos VS 2019\TPIndividualCine\TPIndividualCine\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Usuario\Documents\Proyectos VS 2019\TPIndividualCine\TPIndividualCine\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Usuario\Documents\Proyectos VS 2019\TPIndividualCine\TPIndividualCine\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Usuario\Documents\Proyectos VS 2019\TPIndividualCine\TPIndividualCine\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Usuario\Documents\Proyectos VS 2019\TPIndividualCine\TPIndividualCine\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Usuario\Documents\Proyectos VS 2019\TPIndividualCine\TPIndividualCine\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Usuario\Documents\Proyectos VS 2019\TPIndividualCine\TPIndividualCine\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Usuario\Documents\Proyectos VS 2019\TPIndividualCine\TPIndividualCine\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Usuario\Documents\Proyectos VS 2019\TPIndividualCine\TPIndividualCine\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Usuario\Documents\Proyectos VS 2019\TPIndividualCine\TPIndividualCine\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Usuario\Documents\Proyectos VS 2019\TPIndividualCine\TPIndividualCine\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Usuario\Documents\Proyectos VS 2019\TPIndividualCine\TPIndividualCine\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Usuario\Documents\Proyectos VS 2019\TPIndividualCine\TPIndividualCine\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Usuario\Documents\Proyectos VS 2019\TPIndividualCine\TPIndividualCine\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Usuario\Documents\Proyectos VS 2019\TPIndividualCine\TPIndividualCine\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Usuario\Documents\Proyectos VS 2019\TPIndividualCine\TPIndividualCine\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Usuario\Documents\Proyectos VS 2019\TPIndividualCine\TPIndividualCine\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Usuario\Documents\Proyectos VS 2019\TPIndividualCine\TPIndividualCine\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Usuario\Documents\Proyectos VS 2019\TPIndividualCine\TPIndividualCine\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Usuario\Documents\Proyectos VS 2019\TPIndividualCine\TPIndividualCine\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Usuario\Documents\Proyectos VS 2019\TPIndividualCine\TPIndividualCine\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\Documents\Proyectos VS 2019\TPIndividualCine\TPIndividualCine\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Usuario\Documents\Proyectos VS 2019\TPIndividualCine\TPIndividualCine\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\Documents\Proyectos VS 2019\TPIndividualCine\TPIndividualCine\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Usuario\Documents\Proyectos VS 2019\TPIndividualCine\TPIndividualCine\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\Documents\Proyectos VS 2019\TPIndividualCine\TPIndividualCine\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Usuario\Documents\Proyectos VS 2019\TPIndividualCine\TPIndividualCine\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\Documents\Proyectos VS 2019\TPIndividualCine\TPIndividualCine\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Usuario\Documents\Proyectos VS 2019\TPIndividualCine\TPIndividualCine\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Usuario\Documents\Proyectos VS 2019\TPIndividualCine\TPIndividualCine\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Usuario\Documents\Proyectos VS 2019\TPIndividualCine\TPIndividualCine\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Usuario\Documents\Proyectos VS 2019\TPIndividualCine\TPIndividualCine\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Usuario\Documents\Proyectos VS 2019\TPIndividualCine\TPIndividualCine\bin\Debug\netcoreapp3.1\Application.dll
+C:\Users\Usuario\Documents\Proyectos VS 2019\TPIndividualCine\TPIndividualCine\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\Usuario\Documents\Proyectos VS 2019\TPIndividualCine\TPIndividualCine\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\Usuario\Documents\Proyectos VS 2019\TPIndividualCine\TPIndividualCine\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Users\Usuario\Documents\Proyectos VS 2019\TPIndividualCine\TPIndividualCine\bin\Debug\netcoreapp3.1\Application.pdb
+C:\Users\Usuario\Documents\Proyectos VS 2019\TPIndividualCine\TPIndividualCine\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\Usuario\Documents\Proyectos VS 2019\TPIndividualCine\TPIndividualCine\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Usuario\Documents\Proyectos VS 2019\TPIndividualCine\TPIndividualCine\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Usuario\Documents\Proyectos VS 2019\TPIndividualCine\TPIndividualCine\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Usuario\Documents\Proyectos VS 2019\TPIndividualCine\TPIndividualCine\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Usuario\Documents\Proyectos VS 2019\TPIndividualCine\TPIndividualCine\obj\Debug\netcoreapp3.1\TPIndividualCine.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Usuario\Documents\Proyectos VS 2019\TPIndividualCine\TPIndividualCine\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\Usuario\Documents\Proyectos VS 2019\TPIndividualCine\TPIndividualCine\bin\Debug\netcoreapp3.1\SqlKata.dll
+C:\Users\Usuario\Documents\Proyectos VS 2019\TPIndividualCine\TPIndividualCine\bin\Debug\netcoreapp3.1\SqlKata.Execution.dll
+C:\Users\Usuario\Documents\Proyectos VS 2019\TPIndividualCine\TPIndividualCine\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Usuario\Documents\Proyectos VS 2019\TPIndividualCine\TPIndividualCine\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Usuario\Documents\Proyectos VS 2019\TPIndividualCine\TPIndividualCine\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Usuario\Documents\Proyectos VS 2019\TPIndividualCine\TPIndividualCine\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Usuario\Documents\Proyectos VS 2019\TPIndividualCine\TPIndividualCine\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netstandard2.0\System.Data.SqlClient.dll
+C:\Users\Usuario\Documents\Proyectos VS 2019\TPIndividualCine\TPIndividualCine\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Data.SqlClient.dll
+C:\Users\Usuario\Documents\Proyectos VS 2019\TPIndividualCine\TPIndividualCine\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\Usuario\Documents\Proyectos VS 2019\TPIndividualCine\TPIndividualCine\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
+C:\Users\Usuario\Documents\Proyectos VS 2019\TPIndividualCine\TPIndividualCine\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\Usuario\Documents\Proyectos VS 2019\TPIndividualCine\TPIndividualCine\bin\Debug\netcoreapp3.1\NPOI.OOXML.dll
+C:\Users\Usuario\Documents\Proyectos VS 2019\TPIndividualCine\TPIndividualCine\bin\Debug\netcoreapp3.1\NPOI.OpenXml4Net.dll
+C:\Users\Usuario\Documents\Proyectos VS 2019\TPIndividualCine\TPIndividualCine\bin\Debug\netcoreapp3.1\NPOI.OpenXmlFormats.dll
+C:\Users\Usuario\Documents\Proyectos VS 2019\TPIndividualCine\TPIndividualCine\bin\Debug\netcoreapp3.1\NPOI.dll
+C:\Users\Usuario\Documents\Proyectos VS 2019\TPIndividualCine\TPIndividualCine\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\Usuario\Documents\Proyectos VS 2019\TPIndividualCine\TPIndividualCine\bin\Debug\netcoreapp3.1\ICSharpCode.SharpZipLib.dll
+C:\Users\Fernando\Desktop\Cursos\Proyecto software\Tps\TP3 (Entrega final)\TPIndividualCine\TPIndividualCine\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\Fernando\Desktop\Cursos\Proyecto software\Tps\TP3 (Entrega final)\TPIndividualCine\TPIndividualCine\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\Fernando\Desktop\Cursos\Proyecto software\Tps\TP3 (Entrega final)\TPIndividualCine\TPIndividualCine\bin\Debug\netcoreapp3.1\TPIndividualCine.StaticWebAssets.xml
+C:\Users\Fernando\Desktop\Cursos\Proyecto software\Tps\TP3 (Entrega final)\TPIndividualCine\TPIndividualCine\bin\Debug\netcoreapp3.1\TPIndividualCine.exe
+C:\Users\Fernando\Desktop\Cursos\Proyecto software\Tps\TP3 (Entrega final)\TPIndividualCine\TPIndividualCine\bin\Debug\netcoreapp3.1\TPIndividualCine.deps.json
+C:\Users\Fernando\Desktop\Cursos\Proyecto software\Tps\TP3 (Entrega final)\TPIndividualCine\TPIndividualCine\bin\Debug\netcoreapp3.1\TPIndividualCine.runtimeconfig.json
+C:\Users\Fernando\Desktop\Cursos\Proyecto software\Tps\TP3 (Entrega final)\TPIndividualCine\TPIndividualCine\bin\Debug\netcoreapp3.1\TPIndividualCine.runtimeconfig.dev.json
+C:\Users\Fernando\Desktop\Cursos\Proyecto software\Tps\TP3 (Entrega final)\TPIndividualCine\TPIndividualCine\bin\Debug\netcoreapp3.1\TPIndividualCine.dll
+C:\Users\Fernando\Desktop\Cursos\Proyecto software\Tps\TP3 (Entrega final)\TPIndividualCine\TPIndividualCine\bin\Debug\netcoreapp3.1\TPIndividualCine.pdb
+C:\Users\Fernando\Desktop\Cursos\Proyecto software\Tps\TP3 (Entrega final)\TPIndividualCine\TPIndividualCine\bin\Debug\netcoreapp3.1\TPIndividualCine.Views.dll
+C:\Users\Fernando\Desktop\Cursos\Proyecto software\Tps\TP3 (Entrega final)\TPIndividualCine\TPIndividualCine\bin\Debug\netcoreapp3.1\TPIndividualCine.Views.pdb
+C:\Users\Fernando\Desktop\Cursos\Proyecto software\Tps\TP3 (Entrega final)\TPIndividualCine\TPIndividualCine\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\Fernando\Desktop\Cursos\Proyecto software\Tps\TP3 (Entrega final)\TPIndividualCine\TPIndividualCine\bin\Debug\netcoreapp3.1\FluentValidation.dll
+C:\Users\Fernando\Desktop\Cursos\Proyecto software\Tps\TP3 (Entrega final)\TPIndividualCine\TPIndividualCine\bin\Debug\netcoreapp3.1\FluentValidation.AspNetCore.dll
+C:\Users\Fernando\Desktop\Cursos\Proyecto software\Tps\TP3 (Entrega final)\TPIndividualCine\TPIndividualCine\bin\Debug\netcoreapp3.1\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\Fernando\Desktop\Cursos\Proyecto software\Tps\TP3 (Entrega final)\TPIndividualCine\TPIndividualCine\bin\Debug\netcoreapp3.1\Humanizer.dll
+C:\Users\Fernando\Desktop\Cursos\Proyecto software\Tps\TP3 (Entrega final)\TPIndividualCine\TPIndividualCine\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Fernando\Desktop\Cursos\Proyecto software\Tps\TP3 (Entrega final)\TPIndividualCine\TPIndividualCine\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+C:\Users\Fernando\Desktop\Cursos\Proyecto software\Tps\TP3 (Entrega final)\TPIndividualCine\TPIndividualCine\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Fernando\Desktop\Cursos\Proyecto software\Tps\TP3 (Entrega final)\TPIndividualCine\TPIndividualCine\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Fernando\Desktop\Cursos\Proyecto software\Tps\TP3 (Entrega final)\TPIndividualCine\TPIndividualCine\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Fernando\Desktop\Cursos\Proyecto software\Tps\TP3 (Entrega final)\TPIndividualCine\TPIndividualCine\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Fernando\Desktop\Cursos\Proyecto software\Tps\TP3 (Entrega final)\TPIndividualCine\TPIndividualCine\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\Fernando\Desktop\Cursos\Proyecto software\Tps\TP3 (Entrega final)\TPIndividualCine\TPIndividualCine\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\Fernando\Desktop\Cursos\Proyecto software\Tps\TP3 (Entrega final)\TPIndividualCine\TPIndividualCine\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Fernando\Desktop\Cursos\Proyecto software\Tps\TP3 (Entrega final)\TPIndividualCine\TPIndividualCine\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Fernando\Desktop\Cursos\Proyecto software\Tps\TP3 (Entrega final)\TPIndividualCine\TPIndividualCine\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Fernando\Desktop\Cursos\Proyecto software\Tps\TP3 (Entrega final)\TPIndividualCine\TPIndividualCine\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+C:\Users\Fernando\Desktop\Cursos\Proyecto software\Tps\TP3 (Entrega final)\TPIndividualCine\TPIndividualCine\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Fernando\Desktop\Cursos\Proyecto software\Tps\TP3 (Entrega final)\TPIndividualCine\TPIndividualCine\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+C:\Users\Fernando\Desktop\Cursos\Proyecto software\Tps\TP3 (Entrega final)\TPIndividualCine\TPIndividualCine\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+C:\Users\Fernando\Desktop\Cursos\Proyecto software\Tps\TP3 (Entrega final)\TPIndividualCine\TPIndividualCine\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+C:\Users\Fernando\Desktop\Cursos\Proyecto software\Tps\TP3 (Entrega final)\TPIndividualCine\TPIndividualCine\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Fernando\Desktop\Cursos\Proyecto software\Tps\TP3 (Entrega final)\TPIndividualCine\TPIndividualCine\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+C:\Users\Fernando\Desktop\Cursos\Proyecto software\Tps\TP3 (Entrega final)\TPIndividualCine\TPIndividualCine\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Fernando\Desktop\Cursos\Proyecto software\Tps\TP3 (Entrega final)\TPIndividualCine\TPIndividualCine\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Fernando\Desktop\Cursos\Proyecto software\Tps\TP3 (Entrega final)\TPIndividualCine\TPIndividualCine\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Fernando\Desktop\Cursos\Proyecto software\Tps\TP3 (Entrega final)\TPIndividualCine\TPIndividualCine\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\Fernando\Desktop\Cursos\Proyecto software\Tps\TP3 (Entrega final)\TPIndividualCine\TPIndividualCine\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\Fernando\Desktop\Cursos\Proyecto software\Tps\TP3 (Entrega final)\TPIndividualCine\TPIndividualCine\bin\Debug\netcoreapp3.1\NPOI.OOXML.dll
+C:\Users\Fernando\Desktop\Cursos\Proyecto software\Tps\TP3 (Entrega final)\TPIndividualCine\TPIndividualCine\bin\Debug\netcoreapp3.1\NPOI.OpenXml4Net.dll
+C:\Users\Fernando\Desktop\Cursos\Proyecto software\Tps\TP3 (Entrega final)\TPIndividualCine\TPIndividualCine\bin\Debug\netcoreapp3.1\NPOI.OpenXmlFormats.dll
+C:\Users\Fernando\Desktop\Cursos\Proyecto software\Tps\TP3 (Entrega final)\TPIndividualCine\TPIndividualCine\bin\Debug\netcoreapp3.1\NPOI.dll
+C:\Users\Fernando\Desktop\Cursos\Proyecto software\Tps\TP3 (Entrega final)\TPIndividualCine\TPIndividualCine\bin\Debug\netcoreapp3.1\BouncyCastle.Crypto.dll
+C:\Users\Fernando\Desktop\Cursos\Proyecto software\Tps\TP3 (Entrega final)\TPIndividualCine\TPIndividualCine\bin\Debug\netcoreapp3.1\ICSharpCode.SharpZipLib.dll
+C:\Users\Fernando\Desktop\Cursos\Proyecto software\Tps\TP3 (Entrega final)\TPIndividualCine\TPIndividualCine\bin\Debug\netcoreapp3.1\SqlKata.dll
+C:\Users\Fernando\Desktop\Cursos\Proyecto software\Tps\TP3 (Entrega final)\TPIndividualCine\TPIndividualCine\bin\Debug\netcoreapp3.1\SqlKata.Execution.dll
+C:\Users\Fernando\Desktop\Cursos\Proyecto software\Tps\TP3 (Entrega final)\TPIndividualCine\TPIndividualCine\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Fernando\Desktop\Cursos\Proyecto software\Tps\TP3 (Entrega final)\TPIndividualCine\TPIndividualCine\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Fernando\Desktop\Cursos\Proyecto software\Tps\TP3 (Entrega final)\TPIndividualCine\TPIndividualCine\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Fernando\Desktop\Cursos\Proyecto software\Tps\TP3 (Entrega final)\TPIndividualCine\TPIndividualCine\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+C:\Users\Fernando\Desktop\Cursos\Proyecto software\Tps\TP3 (Entrega final)\TPIndividualCine\TPIndividualCine\bin\Debug\netcoreapp3.1\System.ComponentModel.Annotations.dll
+C:\Users\Fernando\Desktop\Cursos\Proyecto software\Tps\TP3 (Entrega final)\TPIndividualCine\TPIndividualCine\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+C:\Users\Fernando\Desktop\Cursos\Proyecto software\Tps\TP3 (Entrega final)\TPIndividualCine\TPIndividualCine\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\Fernando\Desktop\Cursos\Proyecto software\Tps\TP3 (Entrega final)\TPIndividualCine\TPIndividualCine\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Fernando\Desktop\Cursos\Proyecto software\Tps\TP3 (Entrega final)\TPIndividualCine\TPIndividualCine\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Fernando\Desktop\Cursos\Proyecto software\Tps\TP3 (Entrega final)\TPIndividualCine\TPIndividualCine\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+C:\Users\Fernando\Desktop\Cursos\Proyecto software\Tps\TP3 (Entrega final)\TPIndividualCine\TPIndividualCine\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Fernando\Desktop\Cursos\Proyecto software\Tps\TP3 (Entrega final)\TPIndividualCine\TPIndividualCine\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Fernando\Desktop\Cursos\Proyecto software\Tps\TP3 (Entrega final)\TPIndividualCine\TPIndividualCine\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Fernando\Desktop\Cursos\Proyecto software\Tps\TP3 (Entrega final)\TPIndividualCine\TPIndividualCine\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Fernando\Desktop\Cursos\Proyecto software\Tps\TP3 (Entrega final)\TPIndividualCine\TPIndividualCine\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Fernando\Desktop\Cursos\Proyecto software\Tps\TP3 (Entrega final)\TPIndividualCine\TPIndividualCine\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Fernando\Desktop\Cursos\Proyecto software\Tps\TP3 (Entrega final)\TPIndividualCine\TPIndividualCine\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Fernando\Desktop\Cursos\Proyecto software\Tps\TP3 (Entrega final)\TPIndividualCine\TPIndividualCine\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Fernando\Desktop\Cursos\Proyecto software\Tps\TP3 (Entrega final)\TPIndividualCine\TPIndividualCine\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Fernando\Desktop\Cursos\Proyecto software\Tps\TP3 (Entrega final)\TPIndividualCine\TPIndividualCine\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Fernando\Desktop\Cursos\Proyecto software\Tps\TP3 (Entrega final)\TPIndividualCine\TPIndividualCine\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\Users\Fernando\Desktop\Cursos\Proyecto software\Tps\TP3 (Entrega final)\TPIndividualCine\TPIndividualCine\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\Fernando\Desktop\Cursos\Proyecto software\Tps\TP3 (Entrega final)\TPIndividualCine\TPIndividualCine\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\Fernando\Desktop\Cursos\Proyecto software\Tps\TP3 (Entrega final)\TPIndividualCine\TPIndividualCine\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\Fernando\Desktop\Cursos\Proyecto software\Tps\TP3 (Entrega final)\TPIndividualCine\TPIndividualCine\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netstandard2.0\System.Data.SqlClient.dll
+C:\Users\Fernando\Desktop\Cursos\Proyecto software\Tps\TP3 (Entrega final)\TPIndividualCine\TPIndividualCine\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Data.SqlClient.dll
+C:\Users\Fernando\Desktop\Cursos\Proyecto software\Tps\TP3 (Entrega final)\TPIndividualCine\TPIndividualCine\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Fernando\Desktop\Cursos\Proyecto software\Tps\TP3 (Entrega final)\TPIndividualCine\TPIndividualCine\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Fernando\Desktop\Cursos\Proyecto software\Tps\TP3 (Entrega final)\TPIndividualCine\TPIndividualCine\bin\Debug\netcoreapp3.1\Application.dll
+C:\Users\Fernando\Desktop\Cursos\Proyecto software\Tps\TP3 (Entrega final)\TPIndividualCine\TPIndividualCine\bin\Debug\netcoreapp3.1\Data.dll
+C:\Users\Fernando\Desktop\Cursos\Proyecto software\Tps\TP3 (Entrega final)\TPIndividualCine\TPIndividualCine\bin\Debug\netcoreapp3.1\Domain.dll
+C:\Users\Fernando\Desktop\Cursos\Proyecto software\Tps\TP3 (Entrega final)\TPIndividualCine\TPIndividualCine\bin\Debug\netcoreapp3.1\Application.pdb
+C:\Users\Fernando\Desktop\Cursos\Proyecto software\Tps\TP3 (Entrega final)\TPIndividualCine\TPIndividualCine\bin\Debug\netcoreapp3.1\Data.pdb
+C:\Users\Fernando\Desktop\Cursos\Proyecto software\Tps\TP3 (Entrega final)\TPIndividualCine\TPIndividualCine\bin\Debug\netcoreapp3.1\Domain.pdb
+C:\Users\Fernando\Desktop\Cursos\Proyecto software\Tps\TP3 (Entrega final)\TPIndividualCine\TPIndividualCine\obj\Debug\netcoreapp3.1\TPIndividualCine.csproj.AssemblyReference.cache
+C:\Users\Fernando\Desktop\Cursos\Proyecto software\Tps\TP3 (Entrega final)\TPIndividualCine\TPIndividualCine\obj\Debug\netcoreapp3.1\TPIndividualCine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fernando\Desktop\Cursos\Proyecto software\Tps\TP3 (Entrega final)\TPIndividualCine\TPIndividualCine\obj\Debug\netcoreapp3.1\TPIndividualCine.AssemblyInfoInputs.cache
+C:\Users\Fernando\Desktop\Cursos\Proyecto software\Tps\TP3 (Entrega final)\TPIndividualCine\TPIndividualCine\obj\Debug\netcoreapp3.1\TPIndividualCine.AssemblyInfo.cs
+C:\Users\Fernando\Desktop\Cursos\Proyecto software\Tps\TP3 (Entrega final)\TPIndividualCine\TPIndividualCine\obj\Debug\netcoreapp3.1\TPIndividualCine.csproj.CoreCompileInputs.cache
+C:\Users\Fernando\Desktop\Cursos\Proyecto software\Tps\TP3 (Entrega final)\TPIndividualCine\TPIndividualCine\obj\Debug\netcoreapp3.1\TPIndividualCine.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Fernando\Desktop\Cursos\Proyecto software\Tps\TP3 (Entrega final)\TPIndividualCine\TPIndividualCine\obj\Debug\netcoreapp3.1\TPIndividualCine.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Fernando\Desktop\Cursos\Proyecto software\Tps\TP3 (Entrega final)\TPIndividualCine\TPIndividualCine\obj\Debug\netcoreapp3.1\TPIndividualCine.RazorAssemblyInfo.cache
+C:\Users\Fernando\Desktop\Cursos\Proyecto software\Tps\TP3 (Entrega final)\TPIndividualCine\TPIndividualCine\obj\Debug\netcoreapp3.1\TPIndividualCine.RazorAssemblyInfo.cs
+C:\Users\Fernando\Desktop\Cursos\Proyecto software\Tps\TP3 (Entrega final)\TPIndividualCine\TPIndividualCine\obj\Debug\netcoreapp3.1\TPIndividualCine.TagHelpers.input.cache
+C:\Users\Fernando\Desktop\Cursos\Proyecto software\Tps\TP3 (Entrega final)\TPIndividualCine\TPIndividualCine\obj\Debug\netcoreapp3.1\TPIndividualCine.TagHelpers.output.cache
+C:\Users\Fernando\Desktop\Cursos\Proyecto software\Tps\TP3 (Entrega final)\TPIndividualCine\TPIndividualCine\obj\Debug\netcoreapp3.1\TPIndividualCine.RazorCoreGenerate.cache
+C:\Users\Fernando\Desktop\Cursos\Proyecto software\Tps\TP3 (Entrega final)\TPIndividualCine\TPIndividualCine\obj\Debug\netcoreapp3.1\Razor\Pages\Error.cshtml.g.cs
+C:\Users\Fernando\Desktop\Cursos\Proyecto software\Tps\TP3 (Entrega final)\TPIndividualCine\TPIndividualCine\obj\Debug\netcoreapp3.1\Razor\Pages\Index.cshtml.g.cs
+C:\Users\Fernando\Desktop\Cursos\Proyecto software\Tps\TP3 (Entrega final)\TPIndividualCine\TPIndividualCine\obj\Debug\netcoreapp3.1\Razor\Pages\Privacy.cshtml.g.cs
+C:\Users\Fernando\Desktop\Cursos\Proyecto software\Tps\TP3 (Entrega final)\TPIndividualCine\TPIndividualCine\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_Layout.cshtml.g.cs
+C:\Users\Fernando\Desktop\Cursos\Proyecto software\Tps\TP3 (Entrega final)\TPIndividualCine\TPIndividualCine\obj\Debug\netcoreapp3.1\Razor\Pages\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Fernando\Desktop\Cursos\Proyecto software\Tps\TP3 (Entrega final)\TPIndividualCine\TPIndividualCine\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\Fernando\Desktop\Cursos\Proyecto software\Tps\TP3 (Entrega final)\TPIndividualCine\TPIndividualCine\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Fernando\Desktop\Cursos\Proyecto software\Tps\TP3 (Entrega final)\TPIndividualCine\TPIndividualCine\obj\Debug\netcoreapp3.1\TPIndividualCine.RazorTargetAssemblyInfo.cache
+C:\Users\Fernando\Desktop\Cursos\Proyecto software\Tps\TP3 (Entrega final)\TPIndividualCine\TPIndividualCine\obj\Debug\netcoreapp3.1\TPIndividualCine.RazorTargetAssemblyInfo.cs
+C:\Users\Fernando\Desktop\Cursos\Proyecto software\Tps\TP3 (Entrega final)\TPIndividualCine\TPIndividualCine\obj\Debug\netcoreapp3.1\TPIndividualCine.Views.pdb
+C:\Users\Fernando\Desktop\Cursos\Proyecto software\Tps\TP3 (Entrega final)\TPIndividualCine\TPIndividualCine\obj\Debug\netcoreapp3.1\staticwebassets\TPIndividualCine.StaticWebAssets.Manifest.cache
+C:\Users\Fernando\Desktop\Cursos\Proyecto software\Tps\TP3 (Entrega final)\TPIndividualCine\TPIndividualCine\obj\Debug\netcoreapp3.1\staticwebassets\TPIndividualCine.StaticWebAssets.Pack.cache
+C:\Users\Fernando\Desktop\Cursos\Proyecto software\Tps\TP3 (Entrega final)\TPIndividualCine\TPIndividualCine\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.TPIndividualCine.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Fernando\Desktop\Cursos\Proyecto software\Tps\TP3 (Entrega final)\TPIndividualCine\TPIndividualCine\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.build.TPIndividualCine.props
+C:\Users\Fernando\Desktop\Cursos\Proyecto software\Tps\TP3 (Entrega final)\TPIndividualCine\TPIndividualCine\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildMultiTargeting.TPIndividualCine.props
+C:\Users\Fernando\Desktop\Cursos\Proyecto software\Tps\TP3 (Entrega final)\TPIndividualCine\TPIndividualCine\obj\Debug\netcoreapp3.1\staticwebassets\msbuild.buildTransitive.TPIndividualCine.props
+C:\Users\Fernando\Desktop\Cursos\Proyecto software\Tps\TP3 (Entrega final)\TPIndividualCine\TPIndividualCine\obj\Debug\netcoreapp3.1\TPIndivi.49D90FFB.Up2Date
+C:\Users\Fernando\Desktop\Cursos\Proyecto software\Tps\TP3 (Entrega final)\TPIndividualCine\TPIndividualCine\obj\Debug\netcoreapp3.1\TPIndividualCine.dll
+C:\Users\Fernando\Desktop\Cursos\Proyecto software\Tps\TP3 (Entrega final)\TPIndividualCine\TPIndividualCine\obj\Debug\netcoreapp3.1\TPIndividualCine.pdb
+C:\Users\Fernando\Desktop\Cursos\Proyecto software\Tps\TP3 (Entrega final)\TPIndividualCine\TPIndividualCine\obj\Debug\netcoreapp3.1\TPIndividualCine.genruntimeconfig.cache

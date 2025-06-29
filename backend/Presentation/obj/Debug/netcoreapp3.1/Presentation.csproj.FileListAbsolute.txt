@@ -1,0 +1,10 @@
+C:\Users\Usuario\Documents\Proyectos VS 2019\TPIndividualCine\Presentation\bin\Debug\netcoreapp3.1\Presentation.deps.json
+C:\Users\Usuario\Documents\Proyectos VS 2019\TPIndividualCine\Presentation\bin\Debug\netcoreapp3.1\Presentation.dll
+C:\Users\Usuario\Documents\Proyectos VS 2019\TPIndividualCine\Presentation\bin\Debug\netcoreapp3.1\Presentation.pdb
+C:\Users\Usuario\Documents\Proyectos VS 2019\TPIndividualCine\Presentation\obj\Debug\netcoreapp3.1\Presentation.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\Proyectos VS 2019\TPIndividualCine\Presentation\obj\Debug\netcoreapp3.1\Presentation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\Proyectos VS 2019\TPIndividualCine\Presentation\obj\Debug\netcoreapp3.1\Presentation.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\Proyectos VS 2019\TPIndividualCine\Presentation\obj\Debug\netcoreapp3.1\Presentation.AssemblyInfo.cs
+C:\Users\Usuario\Documents\Proyectos VS 2019\TPIndividualCine\Presentation\obj\Debug\netcoreapp3.1\Presentation.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\Proyectos VS 2019\TPIndividualCine\Presentation\obj\Debug\netcoreapp3.1\Presentation.dll
+C:\Users\Usuario\Documents\Proyectos VS 2019\TPIndividualCine\Presentation\obj\Debug\netcoreapp3.1\Presentation.pdb

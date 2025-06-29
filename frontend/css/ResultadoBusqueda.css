@@ -1,0 +1,63 @@
+.content__main_grid3 {
+    display: flex;
+    flex-direction: column;
+    width: 70%;
+    height: 100%;
+    background: #FFFFFF;
+    align-items: center;
+    border: black solid 3px;
+    margin-top: 100px;
+}
+
+#imagenesVistaPrincipal{
+    margin-top: 100px;
+}
+
+#imagenesVistaPrincipal2{
+    margin-top: 100px;
+}
+
+#imgLateral{
+    width: 100%;
+    height: 100%;
+}
+
+#content__main_grid-itemsId{
+    display: flex;
+    background: #FFFFFF;
+}
+
+.content__main_grid3 #MensajeResultadoId{
+    display: flex;
+    align-self:flex-start;
+}
+
+#MensajeResultadoId {
+    padding: 20px 20px 40px 20px;
+    background: #FFFFFF;
+}
+
+#mensajeErr{
+    padding: 40px 0 40px 0;
+    background: #FFFFFF;
+}
+
+#imgError{
+    width: 400px;
+}
+
+#imagenBusqueda{
+    height: 835px;
+}
+
+#idContainer{
+    margin-bottom: 30px;
+}
+
+#botonFuncionError{
+    border-radius: 10px;
+}
+
+a{
+    border-radius: 10px;
+}
